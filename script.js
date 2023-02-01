@@ -23,6 +23,7 @@ function btnEncriptar(){
         mensaje.style.backgroundImage = "none"
         textArea.value = "";
         copia.style.display = "block"
+        
     
     }
 }
